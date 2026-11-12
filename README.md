@@ -34,9 +34,9 @@ The joined records are displayed in an HTML table, and navigation links connect 
 ## Screenshots to add
 
 Save genuine screenshots in the `screenshots/` folder:
-1. `entry-form.png` – assignment entry form.
-2. `success-message.png` – form after a successful assignment submission.
-3. `report-page.png` – report showing the joined assignment data.
+1. `01-assignment-form.png` – assignment entry form.
+2. `02-success-message.png` – form after a successful assignment submission.
+3. `1. 03-report.png` – report showing the joined assignment data.
 
 ## GitHub submission
 
