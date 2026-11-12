@@ -13,7 +13,7 @@
 - `report.php` – retrieves and displays assignment details by joining the `employee`, `project` and `assignment` tables.
 - `company_db.sql` – creates the database and tables and inserts five sample employees and five sample projects.
 - `style.css` – provides basic page styling.
-- `screenshots/` – add the required screenshots after running the project.
+- `screenshots/` – contains screenshots demonstrating the working project.
 
 ## How it works
 
