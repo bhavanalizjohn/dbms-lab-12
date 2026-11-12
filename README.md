@@ -33,7 +33,7 @@ The joined records are displayed in an HTML table, and navigation links connect 
 
 ## Screenshots to add
 
-Save genuine screenshots in the `screenshots/` folder:
+The following screenshots demonstrate the working project:
 1. `01-assignment-form.png` – assignment entry form.
 2. `02-success-message.png` – form after a successful assignment submission.
 3. `1. 03-report.png` – report showing the joined assignment data.
