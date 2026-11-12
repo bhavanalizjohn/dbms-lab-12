@@ -1,0 +1,130 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 30px 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f3f5f8;
+    color: #202938;
+}
+
+.container {
+    width: 100%;
+    max-width: 620px;
+    margin: 25px auto;
+    padding: 30px;
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.08);
+}
+
+.container.wide {
+    max-width: 1050px;
+}
+
+h1 {
+    margin-top: 0;
+    margin-bottom: 8px;
+    color: #183153;
+    font-size: 26px;
+}
+
+.subtitle {
+    margin-top: 0;
+    margin-bottom: 25px;
+    color: #64748b;
+}
+
+label {
+    display: block;
+    margin: 17px 0 7px;
+    font-weight: bold;
+}
+
+input, select {
+    width: 100%;
+    padding: 11px;
+    border: 1px solid #cbd5e1;
+    border-radius: 6px;
+    font-size: 15px;
+    background: #fff;
+}
+
+button {
+    width: 100%;
+    margin-top: 24px;
+    padding: 12px;
+    border: 0;
+    border-radius: 6px;
+    background: #1d4ed8;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #1e40af;
+}
+
+.message {
+    margin: 18px 0;
+    padding: 12px;
+    border-radius: 6px;
+}
+
+.message.success {
+    color: #166534;
+    background: #dcfce7;
+}
+
+.message.error {
+    color: #991b1b;
+    background: #fee2e2;
+}
+
+.nav-link {
+    margin-top: 22px;
+    text-align: center;
+}
+
+a {
+    color: #1d4ed8;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.table-wrap {
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+th, td {
+    padding: 12px;
+    border: 1px solid #dbe2ea;
+    text-align: left;
+}
+
+th {
+    background: #eaf0f8;
+    color: #183153;
+}
+
+tr:nth-child(even) {
+    background: #f8fafc;
+}
+
+.empty {
+    padding: 16px;
+    background: #f1f5f9;
+    border-radius: 6px;
+}
